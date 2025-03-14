@@ -1,0 +1,3 @@
+API testing of Urban Grocers Back End (requirement analysis, test cases designing, test cases execution through Postman, creating bug reports in Jira, test report creating)
+
+In this app customers can order groceries and have them delivered to their doorstep. This testing project contains validating and verifying API data accuracy (Postman), navigating and utilizing API documentation tools like ApiDoc/Swagger, practicing reporting bugs for API functionality issues
